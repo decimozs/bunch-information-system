@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DENTAL-INFORMATION-SYSTEM/1.0.0": {
+        "dependencies": {
+          "MySql.Data": "8.2.0.0"
+        },
+        "runtime": {
+          "DENTAL-INFORMATION-SYSTEM.dll": {}
+        }
+      },
+      "MySql.Data/8.2.0.0": {
+        "runtime": {
+          "MySql.Data.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DENTAL-INFORMATION-SYSTEM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySql.Data/8.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
